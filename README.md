@@ -1,8 +1,8 @@
 #Rosalind
 
-Due to the Rosalind's [terms of use](http://rosalind.info/faq/#can-i-post-my-solutions-somewhere), I am not allowed to post here the solutions of the problems.
+Owing to Rosalind's [terms of use](http://rosalind.info/faq/#can-i-post-my-solutions-somewhere), I am not allowed to post here the solutions of problems.
 
-The list below shows the problems I solved (using C++). If you are interested in knowing how I solved one of these problems, feel free to contact me (michelsanti[dot]daniel[at]gmail[dot]com).
+The list below shows the problems I solved (using C++). If you are interested in knowing how I solved them, feel free to contact me (michelsanti[dot]daniel[at]gmail[dot]com).
 
 My profile on Rosalind [here](http://rosalind.info/users/michelsanti.daniel/).
 
