@@ -102,6 +102,18 @@ My profile on Rosalind [here](http://rosalind.info/users/michelsanti.daniel/).
 
 ###5. [How Do We Compare Biological Sequences?](https://www.youtube.com/playlist?list=PLQ-85lQlPqFNmbPEsMoxb5dM5qtRaVShn) - Dynamic Programming Algorithms
 
+* **The Change Problem**
+
+* **Length of a Longest Path in the Manhattan Tourist Problem**
+
+* **Longest Common Subsequence Problem	139**
+
+* **Longest Path in a DAG Problem**
+
+* **Edit Distance Problem**
+
+* **Overlap Alignment Problem**
+
 
 ###6. [Are There Fragile Regions in the Human Genome?](https://www.youtube.com/playlist?list=PLQ-85lQlPqFOcGz6A3g2ZArRL09Ffpp_N) - Combinatorial Algorithms
 
