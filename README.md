@@ -117,6 +117,15 @@ My profile on Rosalind [here](http://rosalind.info/users/michelsanti.daniel/).
 
 ###6. [Are There Fragile Regions in the Human Genome?](https://www.youtube.com/playlist?list=PLQ-85lQlPqFOcGz6A3g2ZArRL09Ffpp_N) - Combinatorial Algorithms
 
+* **Greedy Reversal Sorting**
+
+* **Number of Breakpoints Problem**
+	
+* **2-Break Distance Problem**
+
+* **Shared k-mers Problem**
+
+
 ***
 
 ##Algorithmic Heights
